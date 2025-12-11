@@ -1,4 +1,4 @@
-# GH Cloud 🌐  
+# GH Cloud 
 **Hospedagem moderna, escalável e projetada para desenvolvedores.**
 
 <p align="center">
@@ -61,11 +61,6 @@ A GH Cloud utiliza uma base moderna para garantir estabilidade e performance:
 - 📡 Status page em tempo real  
 - 💳 Sistema de planos avançados  
 - 🛡️ Monitoramento anti-crash de bots  
-
-### Planejado:
-- 🌐 Hospedagem Global distribuída  
-- 🌙 Tema dark completo e personalizável no painel  
-- ☁️ Backup externo em nuvem própria GH Cloud  
 
 ---
 
